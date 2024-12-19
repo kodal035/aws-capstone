@@ -102,7 +102,7 @@ DATABASES = {
         'NAME': 'clarusway',
         'USER': db_username,
         'PASSWORD': db_password,
-        'HOST': 'kodal-rds.cbanmzptkrzf.us-east-1.rds.amazonaws.com',
+        'HOST': 'kodal-capstone-rds.cbanmzptkrzf.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
